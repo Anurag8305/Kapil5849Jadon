@@ -68,7 +68,7 @@
 
 <span><b>Express</b></span><br><br>
 
-<img height="64px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img height="64px" src="https://miro.medium.com/max/1400/1*Gh3DT2gRHZZDxZy9bI_ixw.png">
 
 </td>
 
