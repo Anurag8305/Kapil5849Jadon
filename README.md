@@ -66,7 +66,7 @@
 
 <td width="25%" align="center">
 
-<span><b>Express</b></span><br><br>
+<span><b>Express JS</b></span><br><br>
 
 <img height="64px" src="https://miro.medium.com/max/1400/1*Gh3DT2gRHZZDxZy9bI_ixw.png">
 
