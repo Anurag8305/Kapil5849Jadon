@@ -168,7 +168,7 @@
 
 ---
 ###  <p align="left">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp;🐱My Github stats: 
 </p> 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kapil5849Jadon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
