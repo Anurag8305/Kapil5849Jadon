@@ -142,8 +142,8 @@
   <a href="mailto:kapiljadon5849@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/KapilJa16839898"><img src="https://img.shields.io/badge/-Twitter-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 </p> -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Connect with me ....** 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Connect with me ....** 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> -->
 
 
 <p>
