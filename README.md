@@ -163,14 +163,36 @@
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a> -->
 </p>
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br><br/> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em>
 
 ---
 ### 3. Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kapil5849Jadon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kapil5849Jadon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
-<br/> 
+<p align="left" >
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Kapil5849Jadon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+</p>
+ 
+<p>
+<a href="https://github.com/Kapil5849Jadon"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kapil5849Jadon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kapil5849Jadon&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+</span></a> </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr clear="both">
+ <br/>
+<p align="center">
+<a href="https://github.com/Kapil5849Jadon"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapil5849Jadon&theme=dracula" />
+</span></a> </p>
+
+ <br/>
+
+
+
+<!-- <br/>  -->
 ⭐️ From [@Kapil5849Jadon](https://github.com/Kapil5849Jadon)
 <!-- {"mode":"full","isActive":false} -->
 
