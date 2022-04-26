@@ -1,12 +1,36 @@
-[![Kapil Jadon , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Kapil%20Jadon%20)](https://kapiljadon.com)
+[![Kapil Jadon , I'm a MERN Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Kapil%20Jadon%20)](https://kapiljadon.com)
 
 - 🌱 I am a full-stack developer. Proficient in building user friendly websites. Passionate about implementing and launching new projects. Able to translate business requirements into technical solutions. I am always ready to learn new technologies.
 
 
 
-- 📝 I write articles on [https://medium.com/@kapiljadon5849](https://medium.com/@kapiljadon5849)
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Connect with me ....** 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 
-- 📫 How to reach me **contact@kapiljadon5849@gmail.com**
+
+<p>
+   <a href="https://twitter.com/KapilJa16839898">
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
+  </a>
+  <a href="mailto:kapiljadon5849@gmail.com">
+    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
+  </a>
+ <a href="https://medium.com/@kapiljadon5849">
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kapil-jadon/">
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+  </a>
+  <!-- <a href="https://leetcode.com/monumishra326/">
+    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
+  </a> -->
+</p>
+
+
+
+<!-- - 📝 I write articles on [https://medium.com/@kapiljadon5849](https://medium.com/@kapiljadon5849)
+
+- 📫 How to reach me **contact@kapiljadon5849@gmail.com** -->
 
 <hr />
 
