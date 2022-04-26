@@ -14,7 +14,7 @@
 
 <hr />
 
-### 1. <h3 align="left" border="0"> 🚀 My Tech Stack<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3>
+###  <h3 align="left" border="0"> 🚀 My Tech Stack<img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h3>
 
 <br>
 
@@ -136,7 +136,7 @@
 
 </table>
 
-### 2. 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/kapil-jadon/"><img src="https://img.shields.io/badge/Linkdin-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kapiljadon5849@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -148,16 +148,16 @@
 
 <p align="center">
    <a href="https://twitter.com/KapilJa16839898">
-    <img align="center" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
+    <img align="center" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px" margin="3px" />
   </a>
   <a href="mailto:kapiljadon5849@gmail.com">
-    <img align="center" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
+    <img align="center" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px" margin="3px" />
   </a>
  <a href="https://medium.com/@kapiljadon5849">
-    <img align="center" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
+    <img align="center" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px" margin="3px" />
   </a>
   <a href="https://www.linkedin.com/in/kapil-jadon/">
-    <img align="center" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+    <img align="center" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" margin="3px" />
   </a>
   <!-- <a href="https://leetcode.com/monumishra326/">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
@@ -167,7 +167,7 @@
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em> -->
 
 ---
-### 3. <p align="left">
+###  <p align="left">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p> 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kapil5849Jadon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
