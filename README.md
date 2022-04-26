@@ -164,7 +164,7 @@
   </a> -->
 </p>
 <br><br/> 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em>
+<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em> -->
 
 ---
 ### 3. Github Stats  
@@ -189,10 +189,20 @@
 </span></a> </p>
 
  <br/>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kapil5849Jadon&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
+<hr clear="both">
 
-<!-- <br/>  -->
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>*I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!*</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+
+
+<br/> 
 ⭐️ From [@Kapil5849Jadon](https://github.com/Kapil5849Jadon)
 <!-- {"mode":"full","isActive":false} -->
 
