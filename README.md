@@ -185,16 +185,16 @@
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<!-- <hr clear="both">
+<!-- <!-- <hr clear="both"> -->
  <br/>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/Kapil5849Jadon"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapil5849Jadon&theme=dracula" />
-</span></a> </p>
+</span></a> </p> -->
 
- <!-- <br/>
+ <!-- <!-- <br/> -->
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kapil5849Jadon&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kapil5849Jadon&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  -->
 
 
 <hr clear="both">
