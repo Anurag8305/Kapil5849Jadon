@@ -159,6 +159,9 @@
   <a href="https://www.linkedin.com/in/kapil-jadon/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
+  <a href="https://kapiljadon-portfilio.netlify.app/#/">
+    <img align="left" src="https://cdn-images-1.medium.com/max/1200/1*QJl1hOLut2qUyqNWgRrFFA.jpeg" width="28px" />
+  </a>
   <!-- <a href="https://leetcode.com/monumishra326/">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a> -->
@@ -182,21 +185,21 @@
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr clear="both">
+<!-- <hr clear="both">
  <br/>
 <p align="center">
 <a href="https://github.com/Kapil5849Jadon"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapil5849Jadon&theme=dracula" />
 </span></a> </p>
 
- <br/>
+ <!-- <br/>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kapil5849Jadon&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
 <hr clear="both">
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/> --> -->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>*I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!*</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
   
