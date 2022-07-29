@@ -159,7 +159,7 @@
   <a href="https://www.linkedin.com/in/kapil-jadon/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://kapiljadon-portfilio.netlify.app/#/">
+  <a href="https://kapil-portfolio.vercel.app/#/">
     <img align="left" src="https://cdn-images-1.medium.com/max/1200/1*QJl1hOLut2qUyqNWgRrFFA.jpeg" width="28px" />
   </a>
   <!-- <a href="https://leetcode.com/monumishra326/">
